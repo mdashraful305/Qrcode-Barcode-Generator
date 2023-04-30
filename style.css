@@ -1,0 +1,7 @@
+#qrcode, #barcode {
+    margin-top: 20px;
+    display: none;
+  }
+body{
+    background: linear-gradient(90deg, #2980B9 0%, #6DD5FA 100%)
+}
